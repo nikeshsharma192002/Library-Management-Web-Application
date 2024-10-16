@@ -4,10 +4,9 @@
 
 Effortlessly manage your library with **Librarry**, a modern library management system designed for librarians.<br>
 Keep your collection organized, handle member records, and facilitate seamless transactions. <br>
-<br> ![Screen Shot](https://github.com/nikeshsharma192002/Library-Management/assets/Photo1.png) 
+<br> ![Screen Shot](https://github.com/nikeshsharma192002/Library-Management/blob/main/assets/Photo1.png) 
 <br>
-<p  align="center">
-<a href="https://librarry.azurewebsites.net" >View Live</a></p>
+
 
 ### _Librarry features:_
 
@@ -33,29 +32,29 @@ _**Frontend:**_ &nbsp;React, Material UI, HTML, CSS <br>
 
 ## Screen Shots
 #### Book Management: _Maintain, Update, and Track books._ <br>
-![image](https://github.com/nikeshsharma192002/Library-Management/assets/Photo1.png)
+![image](https://github.com/nikeshsharma192002/Library-Management/blob/main/assets/Photo1.png)
 <br>
 
 #### Members Management: _Add, Edit and delete member details_ <br>
-![image](https://github.com/nikeshsharma192002/Library-Management/assets/Photo2.png)
-![image](https://github.com/nikeshsharma192002/Library-Management/assets/Photo3.png)
-![image](https://github.com/nikeshsharma192002/Library-Management/assets/Photo4.png)
+![image](https://github.com/nikeshsharma192002/Library-Management/blob/main/assets/Photo2.png)
+![image](https://github.com/nikeshsharma192002/Library-Management/blob/main/assets/Photo3.png)
+![image](https://github.com/nikeshsharma192002/Library-Management/blob/main/assets/Photo4.png)
 <br>
 
 #### Debt Control: _Limit debt to Rs. 500 per member_ <br>
-![image](https://github.com/nikeshsharma192002/Library-Management/assets/Photo5.png)
+![image](https://github.com/nikeshsharma192002/Library-Management/blob/main/assets/Photo5.png)
 <br>
 
 #### Transactions: _Shows member's email, book Issued and outstanding debt_ <br>
-![image](https://github.com/nikeshsharma192002/Library-Management/assets/Photo6.png)
+![image](https://github.com/nikeshsharma192002/Library-Management/blob/main/assets/Photo6.png)
 <br>
 
 #### Search: _Search Books by title, authors and publisher_ <br>
-![image](https://github.com/nikeshsharma192002/Library-Management/assets/Photo7.png)
+![image](https://github.com/nikeshsharma192002/Library-Management/blob/main/assets/Photo7.png)
 <br>
 
 #### Import: _Import Books by using ISBN form API_ <br>
-![image](https://github.com/nikeshsharma192002/Library-Management/assets/Photo8.png)
+![image](https://github.com/nikeshsharma192002/Library-Management/blob/main/assets/Photo8.png)
 <br>
 
 
